@@ -15,9 +15,7 @@ defmodule TEA.Mixfile do
   end
 
   defp deps do
-    [
-      {:hexate, git: "https://github.com/rjsamson/hexate.git"}
-    ]
+    []
   end
 
   defp description do
