@@ -1,4 +1,4 @@
-elixir_tea
-==========
+TEA
+===
 
-TEA implementation in Elixir
+A TEA (Tiny Encryption Algorithm) implemented in pure Elixir.
